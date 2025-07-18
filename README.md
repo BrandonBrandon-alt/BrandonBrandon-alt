@@ -53,23 +53,23 @@ Aquí algunas de las tecnologías con las que me siento cómodo trabajando:
 * Vite
 * Gradle
 
-### 🌱 Actualmente Aprendiendo
+  
+##🌱 Actualmente aprendiendo
 
-* [Menciona algo nuevo que estés explorando, ej., Kubernetes, un nuevo lenguaje, etc.]
+Actualmente me encuentro explorando nuevos aprendizajes, como por ejemplo Next.js, entre otros...
 
 ### 💡 Proyectos Destacados
 
 Aquí puedes enlazar algunos de tus mejores proyectos (pueden ser académicos o personales).
-* **[Nombre del Proyecto 1]**: Breve descripción (ej., "Aplicación web de gestión de tareas construida con React y Node.js"). [Link al repositorio](tu-link-al-repo-proyecto1)
-* **[Nombre del Proyecto 2]**: Breve descripción (ej., "API RESTful para un sistema de e-commerce usando Spring Boot y PostgreSQL"). [Link al repositorio](tu-link-al-repo-proyecto2)
-* [Añade más proyectos si tienes]
+* **dental_management_system_front**: Sistema de gestión para clínicas odontológicas que permite la digitalización de historiales médicos, control de inventario y agendamiento automatizado de citas. https://github.com/CamiloCuenca/dental-management-system-backend.git
+* **UniEventos_proyecto_final_Frontend**: UniEventos es una plataforma de venta de entradas desarrollada con Angular, TypeScript y Bootstrap, que ofrece una experiencia de gestión de eventos intuitiva y segura.https://github.com/CamiloCuenca/UniEventos_proyecto_final_Frontend.git
 
 ### 🌐 Conéctate Conmigo
 
-* **LinkedIn:** [https://www.linkedin.com/in/brandon-montealegre-acevedo-68bab0254/](https://www.linkedin.com/in/brandon-montealegre-acevedo-68bab0254/)
+* **LinkedIn:** [https://www.linkedin.com/in/brandon-montealegre-acevedo-68bab0254/
 * **Correo Electrónico:** brandonmontealegre15@gmail.com
-* **Portafolio:** [Tu enlace a tu sitio web de portafolio, si lo tienes]
-* **Mi Perfil de GitHub:** [https://github.com/tu_usuario](https://github.com/tu_usuario) (el que estás viendo ahora mismo)
+* **Portafolio:** https://portfolio-front-gold-phi.vercel.app/skills
+* **Mi Perfil de GitHub:** https://github.com/BrandonBrandon-alt (el que estás viendo ahora mismo)
 
 ---
 *Este README se actualiza periódicamente.*
