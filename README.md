@@ -60,13 +60,12 @@ Actualmente me encuentro explorando nuevos aprendizajes, como por ejemplo Next.j
 
 ### 💡 Proyectos Destacados
 
-Aquí puedes enlazar algunos de tus mejores proyectos (pueden ser académicos o personales).
 * **dental_management_system_front**: Sistema de gestión para clínicas odontológicas que permite la digitalización de historiales médicos, control de inventario y agendamiento automatizado de citas. https://github.com/CamiloCuenca/dental-management-system-backend.git
 * **UniEventos_proyecto_final_Frontend**: UniEventos es una plataforma de venta de entradas desarrollada con Angular, TypeScript y Bootstrap, que ofrece una experiencia de gestión de eventos intuitiva y segura.https://github.com/CamiloCuenca/UniEventos_proyecto_final_Frontend.git
 
 ### 🌐 Conéctate Conmigo
 
-* **LinkedIn:** [https://www.linkedin.com/in/brandon-montealegre-acevedo-68bab0254/
+* **LinkedIn:** https://www.linkedin.com/in/brandon-montealegre-acevedo-68bab0254/
 * **Correo Electrónico:** brandonmontealegre15@gmail.com
 * **Portafolio:** https://portfolio-front-gold-phi.vercel.app/skills
 * **Mi Perfil de GitHub:** https://github.com/BrandonBrandon-alt (el que estás viendo ahora mismo)
