@@ -34,7 +34,6 @@ Aquí algunas de las tecnologías con las que me siento cómodo trabajando:
 * PostgreSQL
 * MySQL
 * MongoDB
-* Oracle
 * SQL
 
 **Control de Versiones & DevOps:**
@@ -47,6 +46,7 @@ Aquí algunas de las tecnologías con las que me siento cómodo trabajando:
 * Cypress
 * Vitest
 * ESLint
+* junit
 
 **Herramientas de Desarrollo:**
 * Postman
